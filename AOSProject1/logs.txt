@@ -1,0 +1,187 @@
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Entering the Critical Section for 3 time units
+Node 0Entering the Critical Section for 3 time units at 1423806866698 for 01th time
+Node 0Entering the Critical Section for 3 time units at 1423806875813 for 11th time
+Node 0Entering the Critical Section for 3 time units at 1423806885845 for 21th time
+Node 0Entering the Critical Section for 3 time units at 1423806894868 for 31th time
+Node 0Entering the Critical Section for 3 time units at 1423806902916 for 41th time
+Node 0Entering the Critical Section for 3 time units at 1423806914992 for 51th time
+Node 0Entering the Critical Section for 3 time units at 1423807006431 for 01th time
+Node 0Entering the Critical Section for 3 time units at 1423807017505 for 11th time
+Node 0Entering the Critical Section for 3 time units at 1423807049240 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423807058298 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423807066354 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423807077405 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423807086437 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423807094509 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1423807102577 for 7th time
+Node 0Entering the Critical Section for 3 time units at 1423807199755 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423807209798 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423807217870 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423807228909 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423807240008 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423808487207 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423808499224 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423808509236 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423808519251 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423808530264 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423808678123 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423808689139 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423808702150 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423808712162 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423808721174 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423808734259 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1423808915137 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423808932341 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423808957623 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423809027452 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423809093886 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423809102901 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423809111970 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423809123986 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423809136000 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423809145013 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1423809471201 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423809479218 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423809487233 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423809499246 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423809508260 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423809520273 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1423809572286 for 7th time
+Node 0Entering the Critical Section for 3 time units at 1423810180340 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423810189356 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423810200403 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423810213429 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423810221447 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423887730979 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423887744013 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423887754031 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423887766043 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423887775062 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423888293228 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1423888303231 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1423888315330 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1423888327335 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1423888340356 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1423888389392 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1423888439429 for 7th time
+Node 0Entering the Critical Section for 3 time units at 1423888491436 for 8th time
+Node 0Entering the Critical Section for 3 time units at 1423888494438 for 9th time
+Node 0Entering the Critical Section for 3 time units at 1423888497448 for 10th time
+Node 0Entering the Critical Section for 3 time units at 1423888500465 for 11th time
+Node 0Entering the Critical Section for 3 time units at 1424040976629 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424040986836 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424040996049 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424041005138 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424041013270 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1424041064481 for 6th time
+Node 0Entering the Critical Section for 3 time units at 1424041115541 for 7th time
+Node 0Entering the Critical Section for 3 time units at 1424041167758 for 8th time
+Node 0Entering the Critical Section for 3 time units at 1424041519783 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424041532929 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424041544107 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424041555126 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424041736893 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424041746032 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424041758195 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424041808270 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424041860367 for 5th time
+Node 0Entering the Critical Section for 3 time units at 1424042211775 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424042222868 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424042231091 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424042611746 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424042623867 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424042672955 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424042723119 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424043076509 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424043084599 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424043135692 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424043187769 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424043302965 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424043312992 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424043388941 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424043402045 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424043450134 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424043502200 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424044027793 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424044040864 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424044228226 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424044241310 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424044290422 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424044338514 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424044615941 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424044624028 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424044675067 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424044723111 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424052475399 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424052488635 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424052536776 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424052585873 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424072064352 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424072073474 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424072517994 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424072530112 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424074172090 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424074182267 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424074422190 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424074430292 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424124360161 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424124372353 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424124595982 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424124604141 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424124614197 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424124626231 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424125781758 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424125790981 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424125803162 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424125813240 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424127116363 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424127127622 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424127205702 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424127214899 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424127225941 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424127237016 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424127577901 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424127586990 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424127595032 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424127608146 for 4th time
+Receiver Message: request from Node 13 at 1424312516527
+Receiver Message: request from Node 0 at 1424312591553
+Receiver Message: request from Node 0 at 1424312919713
+Receiver Message: request from Node 1 at 1424312969787
+Receiver Message: request from Node 1 at 1424313053525
+Receiver Message: request from Node 1 at 1424313588642
+Receiver Message: request from Node 1 at 1424313659085
+Receiver Message: request from Node 1 at 1424313738892
+Receiver Message: request from Node 1 at 1424313876246
+Node 0Entering the Critical Section for 3 time units at 1424314151883 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424314162972 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424323509094 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424323520266 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424323530326 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424323540377 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424361737819 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424361749965 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424361802580 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424361815606 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424364064939 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424364074068 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424364087165 for 3th time
+Node 0Entering the Critical Section for 3 time units at 1424364096245 for 4th time
+Node 0Entering the Critical Section for 3 time units at 1424364960906 for 1th time
+Node 0Entering the Critical Section for 3 time units at 1424364985396 for 2th time
+Node 0Entering the Critical Section for 3 time units at 1424365010201 for 3th time
